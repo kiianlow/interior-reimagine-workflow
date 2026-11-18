@@ -218,7 +218,7 @@ Compare the image with the original photo, never an earlier image:
 | 6. Finishes (STAGE: all unchanged. REVAMP: floor at the same level, refinishes in place) | | | |
 | 7. Styling (items removed, scale, walkways, light, style match, artefacts) | | | |
 
-Result is PASS, MINOR, MAJOR or UNCLEAR. Do not pass a check you cannot verify. Checks 1 to 6 are the hard checks.
+Result is PASS, MINOR, MAJOR or UNCLEAR. Do not pass a check you cannot verify. Check an item changed at user request against the request, not the photo. Checks 1 to 6 are the hard checks.
 
 UNCLEAR (photo) means the item was already Uncertain in the Room Audit. It does not block ACCEPT, but the decision says "check by eye".
 
@@ -284,7 +284,6 @@ Use the style file's furniture line for the room, with these rules:
 - Balcony or PES: outdoor furniture and potted plants only. Railings and screens stay. Never enclose it.
 - Service yard or household shelter: not furnished. Remove clutter only.
 - Combined rooms: use each zone's line.
-- Unclear room: use the kickoff's room, otherwise state your best guess.
 
 ## 16. Run summary
 

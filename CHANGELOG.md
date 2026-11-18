@@ -15,7 +15,7 @@ Engine (START-HERE):
 - Photo check before the Room Audit: dark photos, 0.5x lens, people, pets, reflections and combined rooms.
 - LOCKED list adds the rubbish chute hopper, gas pipes and meter, sprinklers, smoke detectors, bay window ledges, AC ledges, planter boxes and balcony screens.
 - Kitchen and bathroom fixed positions now cover the hood, fridge space, washer space, shower and floor trap.
-- Overrides narrowed. Window grilles and the ceiling can change in REVAMP only when the user names them. Nothing LOCKED changes in STAGE.
+- Overrides narrowed. Window grilles and the ceiling can change in REVAMP only when the user names them. Nothing LOCKED changes in STAGE. QC checks an overridden item against the request, not the photo.
 - QC cut to 6 hard checks and 1 styling check, with fixed decisions: ACCEPT, REGENERATE, EDIT, STOP. Edits count as attempts and get the hard checks again.
 - UNCLEAR (photo) no longer blocks ACCEPT when the item was already unclear in the photo. This stops runs burning 3 attempts on a dark window.
 - Dark-palette rule for small or dim rooms moved into START-HERE so it reaches the prompt.
