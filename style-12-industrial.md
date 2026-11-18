@@ -2,7 +2,7 @@
 
 ## Prompt block
 
-Modern industrial style: concrete grey and warm charcoal with black metal, reclaimed timber and cognac leather, microcement or concrete-look surfaces, black metal and glass details, leather sofa, timber and metal dining table, open metal shelving, black metal pendants, warm light. Urban and warm, not dark or messy.
+Modern industrial look. Concrete grey and warm charcoal with black metal, reclaimed timber, cognac leather, black metal and glass details, solid charcoal, rust and cream textiles, warm light. Urban and warm, not dark or messy.
 
 ## Mood
 
@@ -14,7 +14,15 @@ Concrete grey, warm charcoal, black, reclaimed timber, cognac leather.
 
 ## Furniture
 
-Leather sofa, timber and metal dining table, metal-frame shelving, simple bed with a timber headboard.
+Use only the line for the room in the photo.
+
+- Living: cognac leather sofa, reclaimed timber and metal coffee table, charcoal rug, open metal shelf, black floor lamp, simple blinds or curtains.
+- Dining: timber and metal table, black metal chairs.
+- Bedroom: simple bed with a timber headboard, charcoal and cream bedding, metal bedside table, simple blinds or curtains.
+- Study: timber and metal desk, leather chair, black metal task lamp, metal-frame shelf.
+- Kitchen: a timber board, glass jars, a small plant.
+- Bathroom: charcoal towels, a black metal tray.
+- Balcony: metal-frame chairs, concrete planter.
 
 ## Textiles and window treatments
 
@@ -22,7 +30,7 @@ Solid charcoal, rust and cream textiles, simple blinds or curtains.
 
 ## Lighting
 
-Black metal pendants, warm light. No exposed ceilings, pipes or ducts unless they are already in the photo.
+Warm light. No exposed ceilings, pipes or ducts unless they are already in the photo.
 
 ## Greenery and decor
 
@@ -33,7 +41,9 @@ Large prints, a few plants, books.
 Use this section only in REVAMP mode. In STAGE mode, keep every existing finish.
 
 - Walls: Concrete-look paint, microcement or white paint. Brick look only as a flat wall finish.
-- Flooring: Concrete-look porcelain, microcement or dark timber-look vinyl.
+- Flooring: Concrete-look porcelain, microcement or dark timber-look vinyl. Concrete-look porcelain in wet areas.
+- Ceiling lights: Black metal pendants at existing light points.
+- Carpentry: Dark grey or black matte built-ins.
 - Kitchen: dark grey or black matte fronts, concrete-look or butcher-block top, black tapware, subway tile.
 - Bathroom: concrete-look tiles, black-framed glass, black fittings.
 

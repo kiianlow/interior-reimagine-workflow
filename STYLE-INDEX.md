@@ -21,10 +21,13 @@ Use one style per image. The user can request several styles for the same photo,
 
 - Broad appeal, safest choice: 06 Warm Minimalist
 - HDB and first-time buyers: 05 Natural Minimal, 01 Scandinavian, 02 Japandi
-- Premium and luxury: 07 Quiet Luxury, 08 Dark Modern Luxury
+- Premium and luxury: 07 Quiet Luxury, 08 Dark Modern Luxury (in small or dim HDB rooms the engine keeps walls light)
 - Lifestyle content: 04 Wabi-Sabi, 09 Organic Modern, 11 Mid-Century Modern
 - Landed and outdoor-linked units: 10 Modern Tropical
 
 ## Adding a style
 
-Copy `style-template.md`, give it the next number and a unique file name, fill every section, then add a row here and in section 9 of START-HERE.
+1. Copy `style-template.md`, give it the next number and a unique lowercase file name, and fill every section.
+2. Keep the Prompt block free of room furniture and fixed finishes. Fill every room line and every REVAMP finishes line.
+3. Add a row here, in section 9 of START-HERE, and in the "Style numbers" line of kickoff.md.
+4. Run `python3 validate.py --bundle`, then `python3 validate.py`. Fix anything it reports.
